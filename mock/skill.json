@@ -1,0 +1,27 @@
+﻿[
+	{
+		"category": "规范",
+		"img":"images/h5.jpg",
+		"name": "了解HTML4、HTML5、ES5、ES6、CommonJS、CMD、AMD等规范"
+	}, {
+		"category": "布局",
+		"img":"images/css3.jpg",
+		"name": "精通Fixed、Fulid、Flex、Responsive布局"
+	}, {
+		"category": "程序",
+		"img":"images/js.jpg",
+		"name": "精通Javascript原生、Jquery及Zepto插件、AngularJs等程序"
+	}, {
+		"category": "框架",
+		"img":"images/angular.jpg",
+		"name": "熟悉Jquery、Zepto、AngularJs、Recat、Avalon、bootstrap等框架,了解Mui、Yo、Ionic、vue等"
+	}, {
+		"category": "类库",
+		"img":"images/swiper.jpg",
+		"name": "熟悉Swiper、Iscroll、moment、touch等类库"
+	}, {
+		"category": "插件",
+		"img":"images/plugin.jpg",
+		"name": "熟悉Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等插件"
+	}
+]
