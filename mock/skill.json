@@ -6,7 +6,7 @@
 	}, {
 		"category": "布局",
 		"img":"images/css3.jpg",
-		"name": "精通Fixed、Fulid、Flex、Responsive布局"
+		"name": "精通c3Flex布局，百分百布局，了解rem等比缩放布局"
 	}, {
 		"category": "程序",
 		"img":"images/js.jpg",
@@ -14,14 +14,14 @@
 	}, {
 		"category": "框架",
 		"img":"images/angular.jpg",
-		"name": "熟悉Jquery、Zepto、AngularJs、Recat、Avalon、bootstrap等框架,了解Mui、Yo、Ionic、vue等"
+		"name": "熟悉Jquery、Zepto、AngularJs、Recat、bootstrap等框架,了解Mui、Yo、Ionic、vue等"
 	}, {
 		"category": "类库",
 		"img":"images/swiper.jpg",
-		"name": "熟悉Swiper、Iscroll、moment、touch等类库"
+		"name": "熟悉Swiper、Iscroll等类库"
 	}, {
 		"category": "插件",
 		"img":"images/plugin.jpg",
-		"name": "熟悉Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等插件"
+		"name": "了解touch、Jquery menu plugin、Jquery nav plugin、zepto emoji-expression-plugin等插件"
 	}
 ]

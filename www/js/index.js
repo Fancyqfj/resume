@@ -60,7 +60,10 @@
 		},
 		onSlideChangeEnd: function(swiper) {
 			swiperAnimate.swiperAnimate(swiper); //每个slide切换结束时也运行当前slide动画
-		}
+		},
+		 // 如果需要分页器
+	    pagination: '.swiper-pagination',
+	    
 	})
 
 	var $ = __webpack_require__(4);
@@ -195,7 +198,7 @@
 				"<dd>" + sk[i].content + "</dd>";
 			$("#scroller #dv_work dl").append(str);
 		}
-		$("#scroller #dv_work dl").append("<dt>曾在公司</dt><dd><img src='images/qtfm.jpg' /></dd><dd>公司官网：http://neo.qingting.fm/<dd>");
+		$("#scroller #dv_work dl").append("<dt>曾在公司</dt><dd><img src='images/hlrj.png' /></dd><dd>公司官网：http://www.hyron.com/cn.asp<dd>");
 	   setTimeout(function(){
 	   	myScroll.refresh();
 	   },300)

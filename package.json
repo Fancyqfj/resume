@@ -15,6 +15,7 @@
     "browserify": "^13.0.1",
     "browserify-shim": "^3.8.12",
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
     "gulp-concat": "^2.6.0",
     "gulp-connect": "^3.2.2",
     "gulp-htmlmin": "^2.0.0",

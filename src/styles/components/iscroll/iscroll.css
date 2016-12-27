@@ -168,7 +168,7 @@ body {
 
 #scroller #dv_work {
 	background: 100%;
-	height: 500px;
+	height: 530px;
 	background: #FFFFFF;
 	background: url("../images/work_bg.jpg") no-repeat;
 	background-size: 100% 100%;
@@ -254,7 +254,7 @@ body {
 /*dv_my css样式*/
 #scroller #dv_my{
 	width: 100%;
-	height: 500px;
+	height: 530px;
 	background: url("../images/project_bg.png") no-repeat;
 	background-size: 120% 120%;
 	background-position:  -30px -30px;
