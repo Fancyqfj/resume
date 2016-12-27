@@ -1,0 +1,5 @@
+先同步：git remote add XXXXXXXXXXXXX
+再向远程服务器暂存区添加当前文件夹内的文件：git add -A
+再查看暂存区文件是否添加进去：git status ---------> 绿字
+给当前这个操作步骤命名： git commit -m 'dhsuhdiuashdsa'
+推送： git push origin master
